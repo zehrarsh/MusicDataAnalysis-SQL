@@ -5,6 +5,8 @@
 ![Alt Text](4SQLProject.png)
 ![Alt Text](5SQLProject.png)
 ![Alt Text](6SQLProject.png)
+test.query.sql
+
 
 ## Introduction
 Welcome to the Music Data Analysis SQL project! This project aims to analyze and extract insights from a music dataset using SQL queries. By leveraging SQL, we can efficiently retrieve, manipulate, and analyze various aspects of music data, including artist information, song details, album tracks, user interactions, and more.
