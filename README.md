@@ -5,7 +5,7 @@
 ![Alt Text](4SQLProject.png)
 ![Alt Text](5SQLProject.png)
 ![Alt Text](6SQLProject.png)
-test.query.sql
+
 
 
 ## Introduction
